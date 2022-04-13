@@ -1,5 +1,5 @@
 # OOP_Applications
-Bu repoda temel OOP kurallarını öğrenmenize yardımcı olur.
+Bu repoda temel OOP kurallarını öğrenmenize yardımcı olur. 2 konsol uygulamasında temel öğeleri öğrenebilirisin.
 ### Neden OOP'ye ihtiyaç duyarız?
 Yazılımın tasarımını veri ve nesneler üzerinden organize eden bir modeldir. C# ile nesne düzeyinde kod yazılmasını sağlar.
 ### Class Concept
